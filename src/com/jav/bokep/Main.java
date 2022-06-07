@@ -1,7 +1,7 @@
 package com.jav.bokep;
 
 
-public class bokep {
+public class Main {
     public static void main(String[] args){
 Player okana = new Player("okana", "1", "-100");
 Weapon realokana = new Weapon("okana's power sword", 1990,"Insanely Fast litereli chiting no cap");
